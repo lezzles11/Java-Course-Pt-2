@@ -22,7 +22,7 @@
     <tr>
       <th scope="row"></th>
       <td>7</td>
-      <td></td>
+      <td>Passing reference objects as parameters. What does this mean? </td>
       <td></td>
     </tr>
         <tr>
