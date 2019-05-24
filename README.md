@@ -57,7 +57,7 @@
     </tr>
   </tbody>
 </table>
-      <p> This course taught me the basics of the Java programming language and core Object-Oriented Programming concepts. The course is the first of a two semester line of classes from the University of Helsinki, Finland's computer science degree program. This, combined with the second part of the course, is the first year of computer science classes for CS majors.</p>
+      <p> This course taught me the basics of the Java programming language and core Object-Oriented Programming concepts. The course is the second of a two semester line of classes from the University of Helsinki, Finland's computer science degree program. This, combined with the first part of the course, is the first year of computer science classes for CS majors.</p>
     </div> 
   </div>
   </div> 
