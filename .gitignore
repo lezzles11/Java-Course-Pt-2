@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_04.ThingSuitcaseAndContainer/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_01.Smileys/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART2/week7-week7_07.Dictionary/nbproject/private/
